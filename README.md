@@ -20,4 +20,4 @@ Also interested in:
 
 Cheers,  
 Binay Kumar Das  
-[binaydev.vercel.app](https://binaydev.vercel.app/)
+[binaykumardas.github.io/my-portifolio/](https://binaykumardas.github.io/my-portifolio/)
