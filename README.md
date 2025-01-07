@@ -1,19 +1,22 @@
-Hi there 👋
-Hello World,
+# Hello World,
 
+<a href="https://linkedin.com/in/binaykumardas">
+  <img align="left" alt="Binay Kumar Das - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<br />
+<br />
 
-I'm an Engineer.
-I'm working on UI.
+I'm an Engineer by profession.  
+I share my knowledge by creating Coding & Interview preparation videos.  
 
-In free time i learned new things related to javascript because i love Functions.
 
 Technologies:
-Javascript, React, Angular, jQuery, Bootstrap, AngularJs
-Node, Core Java
+- Javascript, Angular,Express.js,SCSS
+- Node, Java
 
 Also interested in:
-Digital Marketing, SEO, Blogging, Web Security
+- Digital Marketing, SEO, Web Security
 
-Cheers,
-Binay Kumar Das
-(http://binaykumardas.tech/)
+Cheers,  
+Akshay Saini  
+[binaykumardas.tech](http://binaykumardas.tech/)
