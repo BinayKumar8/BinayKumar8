@@ -19,5 +19,4 @@ Also interested in:
 
 Cheers,  
 Binay Kumar Das 
-[binaykumardas.tech]
 (http://binaykumardas.tech/)
