@@ -7,7 +7,7 @@
 <br />
 
 I'm an Engineer by profession.  
-I share my knowledge by creating Coding & Interview preparation videos.  
+In free time i learned new things related to javascript because i love Functions.
 
 
 Technologies:
@@ -18,5 +18,5 @@ Also interested in:
 - Digital Marketing, SEO, Web Security
 
 Cheers,  
-Akshay Saini  
+Binay Kumar Das 
 [binaykumardas.tech](http://binaykumardas.tech/)
